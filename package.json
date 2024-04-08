@@ -1,0 +1,18 @@
+{
+  "type": "commonjs",
+  "name": "js-spider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"一个用来下载www.hifini.com音乐的脚本\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "line-reader": "^0.4.0",
+    "puppeteer": "^22.6.3"
+  },
+  "description": ""
+}
